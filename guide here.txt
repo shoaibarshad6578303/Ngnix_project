@@ -1,0 +1,8 @@
+- Block
+- Directory
+- Redirect
+- Rewrite
+- LoadBalancer
+
+Load balancer done by installing node express and make a Docker file
+to run on docker... 
